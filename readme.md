@@ -1,5 +1,5 @@
 ## hide-terminal-cursor
-> Hide terminal cursor.
+> Hide the terminal cursor.
 
 ## Install
 ```
@@ -14,7 +14,7 @@ hideCursor();
 ```
 
 ## Related
-- [show-terminal-cursor](https://github.com/joegesualdo/show-terminal-cursor) - Shows a terminal cursor.
+- [show-terminal-cursor](https://github.com/joegesualdo/show-terminal-cursor) - Shows the terminal cursor.
 
 ## License
 MIT © [Joe Gesualdo]()

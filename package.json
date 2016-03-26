@@ -1,7 +1,7 @@
 {
   "name": "hide-terminal-cursor",
   "version": "0.0.1",
-  "description": "Hide terminal cursor.",
+  "description": "Hide the terminal cursor.",
   "main": "index.js",
   "scripts": {
     "test": "mocha test.js"
